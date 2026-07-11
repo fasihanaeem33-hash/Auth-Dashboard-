@@ -64,6 +64,6 @@ npm run dev
 - Ensure `firebase` is configured properly before testing authentication flows.
 - Update API endpoints in `src/services/api.js` if using a backend service.
 
-## License
+## Deploy Link
 
-This project is provided as-is.
+https://auth-dashboardfn.netlify.app/
