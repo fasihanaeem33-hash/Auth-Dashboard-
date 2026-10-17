@@ -66,4 +66,4 @@ npm run dev
 
 ## Deploy Link
 
-https://auth-dashboardfn.netlify.app/
+https://extraordinary-maamoul-e62410.netlify.app/
